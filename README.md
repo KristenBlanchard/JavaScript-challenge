@@ -11,7 +11,7 @@ There is just one tiny problem though... our collection is too large to search t
 You can handle this... right? The planet Earth needs to know what we have found!
 
 
-### UFO-Level 1: Automatic Table and Date Search (Required)
+### UFO-Level 1: Automatic Table and Date Search
 
 * Create a basic HTML web page
 
